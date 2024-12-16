@@ -1,0 +1,303 @@
+{
+    "id0": {
+      "emotion": "Sad"
+    },
+    "id1": {
+      "emotion": "Sad"
+    },
+    "id2": {
+      "emotion": "Angry"
+    },
+    "id3": {
+      "emotion": "Middle"
+    },
+    "id4": {
+      "emotion": "Exciting"
+    },
+    "id5": {
+      "emotion": "Angry"
+    },
+    "id6": {
+      "emotion": "Sad"
+    },
+    "id7": {
+      "emotion": "Exciting"
+    },
+    "id8": {
+      "emotion": "Middle"
+    },
+    "id9": {
+      "emotion": "Sad"
+    },
+    "id10": {
+      "emotion": "Sad"
+    },
+    "id11": {
+      "emotion": "Exciting"
+    },
+    "id12": {
+      "emotion": "Angry"
+    },
+    "id13": {
+      "emotion": "Middle"
+    },
+    "id14": {
+      "emotion": "Sad"
+    },
+    "id15": {
+      "emotion": "Sad"
+    },
+    "id16": {
+      "emotion": "Exciting"
+    },
+    "id17": {
+      "emotion": "Angry"
+    },
+    "id18": {
+      "emotion": "Middle"
+    },
+    "id19": {
+      "emotion": "Sad"
+    },
+    "id20": {
+      "emotion": "Sad"
+    },
+    "id21": {
+      "emotion": "Exciting"
+    },
+    "id22": {
+      "emotion": "Middle"
+    },
+    "id23": {
+      "emotion": "Angry"
+    },
+    "id24": {
+      "emotion": "Sad"
+    },
+    "id25": {
+      "emotion": "Sad"
+    },
+    "id26": {
+      "emotion": "Exciting"
+    },
+    "id27": {
+      "emotion": "Middle"
+    },
+    "id28": {
+      "emotion": "Angry"
+    },
+    "id29": {
+      "emotion": "Sad"
+    },
+    "id30": {
+      "emotion": "Sad"
+    },
+    "id31": {
+      "emotion": "Exciting"
+    },
+    "id32": {
+      "emotion": "Middle"
+    },
+    "id33": {
+      "emotion": "Angry"
+    },
+    "id34": {
+      "emotion": "Sad"
+    },
+    "id35": {
+      "emotion": "Sad"
+    },
+    "id36": {
+      "emotion": "Exciting"
+    },
+    "id37": {
+      "emotion": "Middle"
+    },
+    "id38": {
+      "emotion": "Sad"
+    },
+    "id39": {
+      "emotion": "Sad"
+    },
+    "id40": {
+      "emotion": "Angry"
+    },
+    "id41": {
+      "emotion": "Exciting"
+    },
+    "id42": {
+      "emotion": "Sad"
+    },
+    "id43": {
+      "emotion": "Sad"
+    },
+    "id44": {
+      "emotion": "Middle"
+    },
+    "id45": {
+      "emotion": "Angry"
+    },
+    "id46": {
+      "emotion": "Sad"
+    },
+    "id47": {
+      "emotion": "Exciting"
+    },
+    "id48": {
+      "emotion": "Middle"
+    },
+    "id49": {
+      "emotion": "Sad"
+    },
+    "id50": {
+      "emotion": "Sad"
+    },
+    "id51": {
+      "emotion": "Exciting"
+    },
+    "id52": {
+      "emotion": "Middle"
+    },
+    "id53": {
+      "emotion": "Angry"
+    },
+    "id54": {
+      "emotion": "Sad"
+    },
+    "id55": {
+      "emotion": "Sad"
+    },
+    "id56": {
+      "emotion": "Exciting"
+    },
+    "id57": {
+      "emotion": "Middle"
+    },
+    "id58": {
+      "emotion": "Angry"
+    },
+    "id59": {
+      "emotion": "Sad"
+    },
+    "id60": {
+      "emotion": "Sad"
+    },
+    "id61": {
+      "emotion": "Exciting"
+    },
+    "id62": {
+      "emotion": "Sad"
+    },
+    "id63": {
+      "emotion": "Middle"
+    },
+    "id64": {
+      "emotion": "Angry"
+    },
+    "id65": {
+      "emotion": "Sad"
+    },
+    "id66": {
+      "emotion": "Sad"
+    },
+    "id67": {
+      "emotion": "Exciting"
+    },
+    "id68": {
+      "emotion": "Angry"
+    },
+    "id69": {
+      "emotion": "Middle"
+    },
+    "id70": {
+      "emotion": "Sad"
+    },
+    "id71": {
+      "emotion": "Sad"
+    },
+    "id72": {
+      "emotion": "Exciting"
+    },
+    "id73": {
+      "emotion": "Angry"
+    },
+    "id74": {
+      "emotion": "Middle"
+    },
+    "id75": {
+      "emotion": "Sad"
+    },
+    "id76": {
+      "emotion": "Sad"
+    },
+    "id77": {
+      "emotion": "Exciting"
+    },
+    "id78": {
+      "emotion": "Middle"
+    },
+    "id79": {
+      "emotion": "Sad"
+    },
+    "id80": {
+      "emotion": "Angry"
+    },
+    "id81": {
+      "emotion": "Exciting"
+    },
+    "id82": {
+      "emotion": "Sad"
+    },
+    "id83": {
+      "emotion": "Sad"
+    },
+    "id84": {
+      "emotion": "Middle"
+    },
+    "id85": {
+      "emotion": "Angry"
+    },
+    "id86": {
+      "emotion": "Sad"
+    },
+    "id87": {
+      "emotion": "Sad"
+    },
+    "id88": {
+      "emotion": "Exciting"
+    },
+    "id89": {
+      "emotion": "Middle"
+    },
+    "id90": {
+      "emotion": "Angry"
+    },
+    "id91": {
+      "emotion": "Sad"
+    },
+    "id92": {
+      "emotion": "Exciting"
+    },
+    "id93": {
+      "emotion": "Sad"
+    },
+    "id94": {
+      "emotion": "Angry"
+    },
+    "id95": {
+      "emotion": "Middle"
+    },
+    "id96": {
+      "emotion": "Sad"
+    },
+    "id97": {
+      "emotion": "Exciting"
+    },
+    "id98": {
+      "emotion": "Sad"
+    },
+    "id99": {
+      "emotion": "Angry"
+    }
+  }
+  

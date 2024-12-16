@@ -3,7 +3,8 @@
 ## Desription
 
 A distributed project which developed by me and my beloved sons to analyze living room data in real time.
-
+##
+これは私たちの最高のプロジェクター！万歳！
 And this project is build for our 2024-Fall-[Distributed Computing System](https://dasebigdata.github.io/) Course (SWEN6211102015) in DaSE ECNU.
 
 ## Usage

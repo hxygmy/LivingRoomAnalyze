@@ -1,9 +1,10 @@
-from pyflink.datastream import StreamExecutionEnvironment
+from pyflink.datastream import StreamExecutionEnvironment, CheckpointingMode
 from pyflink.datastream.connectors.kafka import KafkaSource, KafkaSink, DeliveryGuarantee, KafkaOffsetsInitializer, KafkaRecordSerializationSchema
 from pyflink.common.serialization import SimpleStringSchema
 from pyflink.common.typeinfo import Types
 from pyflink.datastream.functions import MapFunction, FlatMapFunction
 from pyflink.common.watermark_strategy import WatermarkStrategy
+from pyflink.datastream.state_backend import FsStateBackend
 import jieba
 from collections import Counter
 import json
@@ -11,6 +12,12 @@ import time
 
 env = StreamExecutionEnvironment.get_execution_environment()
 env.set_parallelism(1)
+env.enable_checkpointing(10000)
+env.get_checkpoint_config().set_max_concurrent_checkpoints(1)
+env.get_checkpoint_config().set_checkpointing_mode(CheckpointingMode.EXACTLY_ONCE)
+
+env.set_state_backend(FsStateBackend("hdfs:///logs/flink/checkpoint"))
+
 env.add_jars("file:///opt/flink-1.20.0/lib/flink-sql-connector-kafka-1.17.2.jar")
 env.add_jars("file:///opt/Guava-33.3.1/guava-30.0-jre.jar")
 kafka_servers = "209a01:9092,209a02:9092,209a03:9092"

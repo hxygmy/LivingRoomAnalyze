@@ -27,7 +27,7 @@ def get_response(content):
 
     {
         "role": "user",
-        "content": "你要为接下来我给你的一句话做情感分析，你需要考虑五种情绪：happy,exciting,middle,sad,angry。你只需要返回我以上六种情绪中的一个词！另外不需要句号！例如：快乐 输出你对以下句子的答案："+content
+        "content": "你要为接下来我给你的一句话做情感分析，你需要考虑五种情绪：happy,exciting,middle,sad,angry。你只需要返回我以上五种情绪中的一个词！另外不需要句号！例如：happy 输出你对以下句子的答案："+content
     }
     ]
     })
